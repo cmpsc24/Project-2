@@ -30,20 +30,13 @@ Resource Allocation Simulation:
 Based on the closest shelters and evacuation points, the program allocates resources in a way that is closest to the hurricane.
 Test Case 1: Hurricane at (25.6, -80.0)
 Closest Shelters:
-Shelter 3: 0.00 (Simple Distance) (Exact match, since it’s the hurricane's current position)
-Shelter 1: 4.60 (Simple Distance)
+Shelter 3: 0.00 (Distance) 
+Shelter 1: 4.60 (Distance)
 Closest Evacuation Points:
-Evacuation Point 3: 0.10 (Simple Distance)
-Evacuation Point 2: 0.30 (Simple Distance)
-Test Case 2: Hurricane at (30.0, -85.0)
-Closest Shelters:
-Shelter 2: 4.40 (Simple Distance)
-Shelter 3: 5.40 (Simple Distance)
-Closest Evacuation Points:
-Evacuation Point 1: 6.00 (Simple Distance)
-Evacuation Point 4: 6.80 (Simple Distance)
+Evacuation Point 3: 0.10 (Distance)
+Evacuation Point 2: 0.30 (Distance)
 
- Showcasing the achievement of project goals: Provide some execution results and discuss your result on how your project achieves the project goal - 
+Showcasing the achievement of project goals: Provide some execution results and discuss your result on how your project achieves the project goal - 
 Output - 
 Simulating Resource Allocation and Evacuation Planning for Hurricane 
 
@@ -55,24 +48,20 @@ Closest Evacuation Points to the Hurricane:
 Evacuation Point 2: 3.50 (Simple Distance)
 Evacuation Point 3: 3.60 (Simple Distance)
 
-Achievement of Goals
-Evacuation Planning: The simulation identifies the closest shelters and evacuation points, directly fulfilling the evacuation planning goal.
-Resource Allocation: It allocates resources based on the proximity of shelters and evacuation points to the hurricane, allowing for efficient disaster management.
-Distance Calculation: The simple distance metric allows for rapid, albeit basic, proximity calculations.
-Optimizing Disaster Response: The output clearly helps prioritize evacuation points and shelters, aiding timely decision-making in disaster management.
+Achievement of Goals - 
+Evacuation Planning: The simulation identifies the closest shelters and evacuation points.
+Resource Allocation: It allocates resources based on the closeness of shelters and evacuation points to the hurricane, allowing for efficient disaster management.
+Distance Calculation: The simple distance formula allows for easy, basic, and closet calculations.
+Managing Disaster: The output clearly helps classify evacuation points and shelters, leads to timely decision-making in disaster management.
 
  Discussion and Conclusions: Address project issues, limitations, and how your course learning were applied.
-Issues and Limitations
-Simplistic Distance Metric:
-
-The use of absolute differences in latitude and longitude is an oversimplification. In real-world applications, this would need to be replaced with more accurate geographic distance calculations, such as the Haversine formula or geodesic distance, to account for the Earth's curvature.
+Issues and Limitations - 
+Distance Formula:
+The use of absolute differences in latitude and longitude is an oversimplification. In real-world applications, this would need to be replaced with more accurate geographic distance calculations.
 Static Data:
-
-The locations of shelters, evacuation points, and the hurricane are predefined and static. Real-time data would enhance the model’s applicability for actual hurricane scenarios.
-Routing Considerations:
-
-The model does not account for infrastructure or evacuation routes, such as roads, traffic, or transportation capacity, which are critical factors in real-life evacuation scenarios.
+The locations of shelters, evacuation points, and the hurricane are static. Real-time data would increase the model’s applicability for actual hurricane scenarios.
 Scalability:
-
 The project can be extended to handle a larger dataset, such as dynamically adding shelters or evacuation points as needed, integrating real-time hurricane tracking, or considering more complex factors like population density.
+
+Conclusion -
 
