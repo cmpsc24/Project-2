@@ -50,5 +50,5 @@ def allocate_resources(shelters, evacuation_points, hurricane_position):
 
 # To execute the simulation
 if __name__ == "__main__":
-    print("Simulating Resource Allocation and Evacuation Planning for Hurricane...\n")
+    print("Simulating Resource Allocation and Evacuation Planning for Hurricane \n")
     allocate_resources(shelters, evacuation_points, hurricane_position)
