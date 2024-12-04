@@ -64,4 +64,4 @@ Scalability:
 The project can be extended to handle a larger dataset, such as dynamically adding shelters or evacuation points as needed, integrating real-time hurricane tracking, or considering more complex factors like population density.
 
 Conclusion -
-
+This project provides a useful simulation for evacuation planning, demonstrating how basic algorithms can be used to manage disaster response in the context of hurricanes. The simplicity of the system allows for easy implementation and serves as a basis that can be extended for real-world applications. Although there are limitations in terms of distance accuracy, static data, and scalability, but the project is meeting its objectives and provides an advanced and dynamic disaster management tools.
