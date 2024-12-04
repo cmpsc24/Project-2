@@ -10,10 +10,10 @@ Why the Project is Meaningful and Novel: The project provides a basis for simula
 The approach is novel in that it demonstrates how simple algorithms can be used to achieve meaningful outcomes in disaster planning, making the project accessible for real-world applications.
 
 
- Installation and usage instructions: Provide clear instructions for installing and using the software.
+ Installation and usage instructions:
+ 
 
-
- Code structure : explanations.
+Code structure : explanations.
 Defining Locations: First it defines the geographic coordinates for the shelters, evacuation points, and the hurricane’s current position.
 Then, Distance Calculation: The simple_distance() function calculates the absolute difference in latitude and longitude between the hurricane and each resource (shelter or evacuation point).
 Identifying Closest Resources: The find_closest_resources() function calculates and sorts the distances to find the closest two shelters and evacuation points.
