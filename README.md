@@ -47,9 +47,17 @@ Closest Evacuation Points:
 Evacuation Point 1: 6.00 (Simple Distance)
 Evacuation Point 4: 6.80 (Simple Distance)
 
- Showcasing the achievement of project goals: Provide some execution results and discuss your result on how your project achieves the project goal
+ Showcasing the achievement of project goals: Provide some execution results and discuss your result on how your project achieves the project goal - 
 Output - 
+Simulating Resource Allocation and Evacuation Planning for Hurricane 
 
+Closest Shelters to the Hurricane:
+Shelter 3: 0.00 (Simple Distance)
+Shelter 4: 7.30 (Simple Distance)
+
+Closest Evacuation Points to the Hurricane:
+Evacuation Point 2: 3.50 (Simple Distance)
+Evacuation Point 3: 3.60 (Simple Distance)
 
 Achievement of Goals
 Evacuation Planning: The simulation identifies the closest shelters and evacuation points, directly fulfilling the evacuation planning goal.
