@@ -10,8 +10,8 @@ Why the Project is Meaningful and Novel: The project provides a basis for simula
 The approach is novel in that it demonstrates how simple algorithms can be used to achieve meaningful outcomes in disaster planning, making the project accessible for real-world applications.
 
 
- Installation and usage instructions:
- 
+Installation and usage instructions:
+In a online python compiler or a installed python compiler on your system create a project folder where it will store the code for hurricane stimulation. Then, in the project folder create a python file like hurricane_stimulation.py and start writing down your code. In this project firstly, we have used import math to access built-in module called math functionalities to allow the code to perform calculations like in this code for calculating distance of shelters and evacuation points based on hurricane's location. 
 
 Code structure : explanations.
 Defining Locations: First it defines the geographic coordinates for the shelters, evacuation points, and the hurricane’s current position.
